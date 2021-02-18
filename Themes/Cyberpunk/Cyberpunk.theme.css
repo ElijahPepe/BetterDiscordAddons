@@ -11,8 +11,8 @@
  * @updateUrl https://raw.githubusercontent.com/ElijahPepe/BetterDiscordAddons/master/Themes/Cyberpunk/Cyberpunk.theme.css
 **/
 
-@import url("https://elijahpepe.github.io/BetterDiscordAddons/Themes/Cyberpunk/Font/stylesheet.css");
-@import url("https://elijahpepe.github.io/BetterDiscordAddons/Themes/Cyberpunk/CyberpunkImport.theme.css");
+@import url("https://elijahpepe.github.io/BetterDiscordAddons/Themes/Cyberpunk/Font/Stylesheet.css");
+@import url("https://elijahpepe.github.io/BetterDiscordAddons/Themes/Cyberpunk/Cyberpunk.css");
 
 :root {
     --color-high: rgb(0, 0, 0);
