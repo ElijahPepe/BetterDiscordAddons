@@ -1,0 +1,7 @@
+@font-face {
+ font-family:BlenderProBold;
+ src:url(BlenderPro-Bold.woff2) format("woff2"),
+ url(BlenderPro-Bold.woff) format("woff");
+ font-weight:700;
+ font-style:normal
+}
