@@ -750,12 +750,12 @@ path[d="M14 8C14 7.44772 13.5523 7 13 7H9.76001L10.3657 3.58738C10.4201 3.28107 
 
 .full-motion .avatar-1BDn8e.clickable-1bVtEA {
   background: var(--color-high);
-  border-radius: 0;
+  border-radius: 2000px;
 }
 .full-motion .avatar-1BDn8e.clickable-1bVtEA:hover {
   filter: none;
   background: var(--color-high);
-  border-radius: 0;
+  border-radius: 2000px;
 }
 
 .username-1A8OIy.clickable-1bVtEA {
