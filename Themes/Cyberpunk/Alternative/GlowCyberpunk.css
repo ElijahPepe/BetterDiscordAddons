@@ -227,6 +227,10 @@
   text-shadow: 0 0 0.2em var(--color-low);
 }
 
+.content-s2SEQO a {
+    color: var(--link);
+}
+
 .item-26Dhrx {
   transition: color 0.2s, background-color 0.2s;
   background: var(--color-high);
