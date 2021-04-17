@@ -187,6 +187,10 @@
   color: var(--color-alert) !important;
 }
 
+.content-s2SEQO a {
+    color: var(--link);
+}
+
 .lookOutlined-3sRXeN.colorWhite-rEQuAQ {
   border-radius: 0;
   border-color: transparent;
