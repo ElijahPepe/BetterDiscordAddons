@@ -1388,6 +1388,7 @@ strong {
 .theme-dark .listItemTooltip-CDcY8J {
   background: var(--color-low);
   border-radius: 0;
+  color: var(--color-high);
 }
 .menu-3sdvDG .tooltipPointer-3ZfirK,
 .theme-dark .tooltip-2QfLtc .tooltipPointer-3ZfirK,
@@ -1405,7 +1406,6 @@ strong {
   border-radius: 0;
   border-color: transparent;
   background-color: var(--color-low);
-  color: var(--color-high);
   color: var(--color-high);
 }
 .menu-3sdvDG .colorDefault-2K3EoJ:hover, .menu-3sdvDG .colorDefault-2K3EoJ:active,
