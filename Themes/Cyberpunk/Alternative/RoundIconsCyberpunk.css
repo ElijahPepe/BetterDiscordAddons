@@ -1420,7 +1420,7 @@ strong {
 .menu-3sdvDG .guildNameText-74xXQn,
 .theme-dark .tooltip-2QfLtc .guildNameText-74xXQn,
 .theme-dark .listItemTooltip-CDcY8J .guildNameText-74xXQn {
-  color: var(--color-high);
+  color: var(--color-high) !important;
 }
 
 .item-1tOPte {
